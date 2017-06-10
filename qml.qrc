@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ColorFooter.qml</file>
+        <file>ColorDelagate.qml</file>
+    </qresource>
+</RCC>
